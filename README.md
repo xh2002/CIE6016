@@ -25,3 +25,10 @@ Stanford的一个Congestion Control平台，有很多数据
 https://pantheon.stanford.edu/
 <br />
 https://pantheon.stanford.edu/measurements/node/
+
+4
+Network congestion prediction
+<br />
+https://ieee-dataport.org/documents/network-congestion-prediction
+
+5
